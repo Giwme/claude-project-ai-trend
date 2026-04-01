@@ -166,7 +166,7 @@ app.get('/', (req, res) => {
       </main>
 
       <footer>
-        <p>AI Trends Dashboard • Running on port 6666 • Created with Express.js</p>
+        <p>AI Trends Dashboard • Running on port 8080 • Created with Express.js</p>
         <p>Note: This is a demonstration of current AI trends based on publicly available information.</p>
       </footer>
 
