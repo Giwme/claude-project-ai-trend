@@ -36,8 +36,9 @@ A simple web application showing current trends in artificial intelligence, runn
 2. **Autonomous Agents** - AI assistants, robotic process automation, multi-agent systems
 3. **Generative AI** - Video, 3D, music, and code generation
 4. **Edge AI & Hardware** - Specialized chips, on-device processing, quantum ML
-5. **AI Safety & Ethics** - Alignment, transparency, bias detection, regulations
-6. **AI Applications** - Healthcare, scientific discovery, climate modeling, education
+5. **Huawei Ascend AI Processors** - Development timeline of China's leading AI chip series
+6. **AI Safety & Ethics** - Alignment, transparency, bias detection, regulations
+7. **AI Applications** - Healthcare, scientific discovery, climate modeling, education
 
 ## Project Structure
 

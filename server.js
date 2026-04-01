@@ -140,6 +140,20 @@ app.get('/', (req, res) => {
           </div>
 
           <div class="trend-card">
+            <h3>🇨🇳 Huawei Ascend AI Processors</h3>
+            <ul>
+              <li><span class="highlight">2018</span> - Huawei launches Ascend 310 (inference) and Ascend 910 (training) AI chips</li>
+              <li><span class="highlight">2019</span> - MindSpore AI computing framework released, completing full-stack AI solution</li>
+              <li><span class="highlight">2020</span> - Ascend ecosystem expands with partners across industries</li>
+              <li><span class="highlight">2021</span> - Ascend AI processors deployed in cloud, edge, and device scenarios</li>
+              <li><span class="highlight">2022</span> - Performance upgrades with new architectures and improved efficiency</li>
+              <li><span class="highlight">2023</span> - Widespread adoption in smart cities, manufacturing, and healthcare</li>
+              <li><span class="highlight">2024</span> - Focus on autonomous innovation amid global supply chain challenges</li>
+              <li><span class="highlight">2025</span> - Ascend AI ecosystem matures with comprehensive developer tools</li>
+            </ul>
+          </div>
+
+          <div class="trend-card">
             <h3>🔒 AI Safety & Ethics</h3>
             <ul>
               <li><span class="highlight">Alignment research</span> - Ensuring AI systems act according to human values</li>
